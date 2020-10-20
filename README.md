@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Je sui Arsene KOUASSI developpeur web Front-End. J'utilise les technologies telque : 
+
+* Bootstrap 4, 
+* javascript et 
+* Jquery.
+
+ 🌱 Je suis en constante apprentissage dans le but de connaitre d'autre technologie telle que React....
