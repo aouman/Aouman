@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image de description](https://document-export.canva.com/4amOM/DAELH44amOM/1/thumbnail/mFXoNJzXTShYhS59CDFUqw-0001-12050776305.png)
+![]()
 <!--
 **aouman/Aouman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
